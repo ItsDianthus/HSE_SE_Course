@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "73UnTwb0bgE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Documents\\Мои Документы_\\Git_h\\KPO_Hwks\\HW_4\\S4.HseCarShop\\S4.HseCarShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
