@@ -1,0 +1,15 @@
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.AssemblyInfoInputs.cache
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.AssemblyInfo.cs
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.sourcelink.json
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\bin\Debug\net8.0\KPO_minidz.exe
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\bin\Debug\net8.0\KPO_minidz.deps.json
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\bin\Debug\net8.0\KPO_minidz.runtimeconfig.json
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\bin\Debug\net8.0\KPO_minidz.dll
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\bin\Debug\net8.0\KPO_minidz.pdb
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.dll
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\refint\KPO_minidz.dll
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.pdb
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\KPO_minidz.genruntimeconfig.cache
+C:\Users\1\Documents\Мои Документы_\Git_h\KPO_Hwks\HW_2\KPO_minidz\KPO_minidz\obj\Debug\net8.0\ref\KPO_minidz.dll
